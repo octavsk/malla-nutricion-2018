@@ -1,5 +1,3 @@
-# malla-nutricion-2018
-plan de estudio de la carrera Lic en Nutrición-UNSA
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -9,19 +7,13 @@ plan de estudio de la carrera Lic en Nutrición-UNSA
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Malla Curricular - Licenciatura en Nutrición</h1>
+<h1>Malla Curricular - Licenciatura en Nutrición</h1>
   <p>Hacé clic en una materia para aprobarla. Las correlativas se activan automáticamente.</p>
-
   <div id="contenedor-malla"></div>
-
   <script src="script.js"></script>
 </body>
 </html>
-body {
-  font-family: sans-serif;
-  padding: 20px;
-  background-color: #f4f4f4;
-}
+body {font-family: sans-serif;padding: 20px;  background-color: #f4f4f4;}
 
 h1, p {
   text-align: center;
